@@ -23,8 +23,6 @@ dependencies {
     compile "io.ktor:ktor-client-cio:0.9.3"
     compile "io.ktor:ktor-client-json:0.9.3"
     compile "io.ktor:ktor-client-websocket:0.9.3"
-
-    compile "com.google.guava:guava:25.1-jre"
 }
 
 kotlin {
