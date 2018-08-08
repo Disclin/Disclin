@@ -17,10 +17,10 @@ import kotlinx.coroutines.experimental.channels.mapNotNull
 import pw.dotdash.disclin.api.Disclin
 import pw.dotdash.disclin.api.builder.GuildBuilder
 import pw.dotdash.disclin.api.entity.Snowflake
-import pw.dotdash.disclin.api.entity.channel.DirectTextChannel
-import pw.dotdash.disclin.api.entity.channel.GuildCategory
-import pw.dotdash.disclin.api.entity.channel.GuildTextChannel
-import pw.dotdash.disclin.api.entity.channel.GuildVoiceChannel
+import pw.dotdash.disclin.api.entity.channel.direct.DirectTextChannel
+import pw.dotdash.disclin.api.entity.channel.guild.GuildCategory
+import pw.dotdash.disclin.api.entity.channel.guild.GuildTextChannel
+import pw.dotdash.disclin.api.entity.channel.guild.GuildVoiceChannel
 import pw.dotdash.disclin.api.entity.guild.Guild
 import pw.dotdash.disclin.api.entity.guild.Invite
 import pw.dotdash.disclin.api.entity.guild.Role

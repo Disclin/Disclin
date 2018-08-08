@@ -2,7 +2,7 @@ package pw.dotdash.disclin.ktor.entity.user
 
 import pw.dotdash.disclin.api.builder.MessageBuilder
 import pw.dotdash.disclin.api.entity.Snowflake
-import pw.dotdash.disclin.api.entity.channel.DirectTextChannel
+import pw.dotdash.disclin.api.entity.channel.direct.DirectTextChannel
 import pw.dotdash.disclin.api.entity.message.Embed
 import pw.dotdash.disclin.api.entity.message.Message
 import pw.dotdash.disclin.api.entity.user.Activity
