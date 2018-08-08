@@ -17,7 +17,7 @@ dependencies {
     compile "org.jetbrains.kotlinx:kotlinx-coroutines-core:0.24.0"
 
     // API
-    compile "com.github.Disclin:DisclinAPI:132051799a"
+    compile "com.github.Disclin:DisclinAPI:2ee1aa8476"
 
     // HTTP and WebSocket Client
     compile "io.ktor:ktor-client-cio:0.9.3"
